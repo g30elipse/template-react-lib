@@ -1,3 +1,3 @@
-export { default } from './lib/ReadMoreText';
-export * from './lib/ReadMoreText';
+export { default } from './lib/HelloWorld';
+export * from './lib/HelloWorld';
 
